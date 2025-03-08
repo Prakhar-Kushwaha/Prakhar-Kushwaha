@@ -12,7 +12,7 @@ Hey there! I’m Prakhar Kushwaha, a passionate software developer and open-sour
 - **👯 Open To Collaborate On:** Open Source Projects , Hackathons , Dev Events and Seminar and Workshops
 - **💬 Ask Me About:** My journey , About Deep diving into Java , And Let's Become friends; 
 - **📫 How To Reach Me:** Reach me  on Instagram , Linked-In , and at Email , which are linked below
-- **⚡ Fun Fact:** [A fun or interesting fact about yourself]
+- **⚡ Fun Fact:** I don't just write Java—I speak it. If Java had a native language setting, it’d be with him.
 
 
 ## 🏆 Top Languages
