@@ -71,7 +71,7 @@ Skills :
 ---
 
 Thanks 
-Have a nice time to my Visitor ✨☺
+Bad Times does not test you ,they describe you.
 
 
 <!---
