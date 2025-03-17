@@ -1,7 +1,7 @@
 
 ---
 
-# 👋 Welcome to My GitHub Profile!
+# Welcome 😊Glad to see you here
 
 Hey there! I’m Prakhar Kushwaha, a passionate software developer and open-source enthusiast. I love to build, create, and collaborate with the amazing developer community. Here's a little bit about me and what I do:
 
