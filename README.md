@@ -12,7 +12,7 @@ Hey there! I’m Prakhar Kushwaha, a passionate software developer and open-sour
 - **👯 Open To Collaborate On:** Open Source Projects , Hackathons , Dev Events and Seminar and Workshops
 - **💬 Ask Me About:** My journey , About Deep diving into Java , And Let's Become friends; 
 - **📫 How To Reach Me:** Reach me  on Instagram , Linked-In , and at Email , which are linked below
-- **⚡ Fun Fact:** I don't just write Java—I speak it. If Java had a native language setting, it’d be with him.
+- **⚡ Fun Fact:** Are we two beings in one—an infinite soul that dreams and a rational mind that grounds us? Perhaps life is the dance between intuition and logic.
 
 
 ## 🏆 Top Languages
@@ -70,8 +70,11 @@ Skills :
 
 ---
 
-Thanks 
-Bad Times does not test you ,they describe you.
+Thankyou, You may have a good day 👍🏻
+
+- Bad Times does not test you ,they describe you.
+
+- Clasp your hands, smile, and say, "Thank you"—because you’ve always stood by yourself. Self-love is your superpower, and you wear it well!😇
 
 
 <!---
