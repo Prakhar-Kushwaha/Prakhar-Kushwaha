@@ -6,17 +6,17 @@
  I’m Prakhar Kushwaha, a passionate software developer and open-source enthusiast. I love to build, create, and collaborate. 
 
  
-## 🌟 About Me
+##  About Me
 
-- **🔭 Currently Working On:** Enterprise Web Applications , System Design
-- **🌱 Learning:** Java EE , BlockChain
-- **👯 Open To Collaborate On:** Open Source Projects , Hackathons , Dev Events 
-- **💬 Ask Me About:** Anything ... 
-- **📫 How To Reach Me:** Reach me  on Instagram , Linked-In , and at Email 
-- **⚡ Fun Fact:**  Hihi ... You wouldn't find me funny. 
+- ** Currently Working On:** Enterprise Web Applications , System Design
+- ** Learning:** Java EE , BlockChain
+- ** Open To Collaborate On:** Open Source Projects , Hackathons , Dev Events 
+- ** Ask Me About:** Anything ... 
+- ** How To Reach Me:** Reach me  on Instagram , Linked-In , and at Email 
+- ** Fun Fact:**  Hihi ... You wouldn't find me funny. 
 
 
-## 🏆 Top Languages
+##  Skills Set
 
 Languages :  
 
@@ -49,7 +49,7 @@ Languages :
 
 
  
-## 🌐 Connect With Me
+##  Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/prakhar-kushwaha-53542834a/
 - **Email:** prakharkushwaha001@gmail.com 
