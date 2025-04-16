@@ -8,12 +8,12 @@
  
 ##  About Me
 
-- ** Currently Working On:** Enterprise Web Applications , System Design
-- ** Learning:** Java EE , BlockChain
-- ** Open To Collaborate On:** Open Source Projects , Hackathons , Dev Events 
-- ** Ask Me About:** Anything ... 
-- ** How To Reach Me:** Reach me  on Instagram , Linked-In , and at Email 
-- ** Fun Fact:**  Hihi ... You wouldn't find me funny. 
+- **Currently Working On:** Enterprise Web Applications , System Design
+- **Learning:** Java EE , BlockChain
+- **Open To Collaborate On:** Open Source Projects , Hackathons , Dev Events 
+- **Ask Me About:** Anything ... 
+- **How To Reach Me:** Reach me  on Instagram , Linked-In , and at Email 
+- **Fun Fact:**  Hihi ... You wouldn't find me funny. 
 
 
 ##  Skills Set
