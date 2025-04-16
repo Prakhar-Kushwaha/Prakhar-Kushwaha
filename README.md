@@ -3,7 +3,7 @@
 
 # Welcome 😊Glad to see you here
 
- I’m Prakhar Kushwaha, a passionate software developer and open-source enthusiast. I love to build, create, and collaborate. 
+ I’m Prakhar Kushwaha, a passionate software developer and open-source enthusiast. I like to build, create, and collaborate. 
 
  
 ##  About Me
