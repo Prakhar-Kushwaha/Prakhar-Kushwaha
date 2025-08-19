@@ -75,14 +75,23 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-### [Poet] [writer] [author] [Full Stack Developer]
+<div align="center">
 
--  • Currently working on **[Github Clone]**
--  • Learning **[Java EE , BlockChain]**
--  • Looking to collaborate on **Open Source Projects**
--  • Ask me about **[my poems]**
--  • Reach me: **[prakharkushwaha001@gmail.com]**
--  • Fun fact: **meow moewwww meowww , my windows turn blue** ☕
+![Poet](https://img.shields.io/badge/Poet-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white)
+![Author](https://img.shields.io/badge/Author-FF8C00?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Writer](https://img.shields.io/badge/Writer-2E8B57?style=for-the-badge&logo=markdown&logoColor=white)
+![Full_Stack_Developer](https://img.shields.io/badge/Full_Stack_Developer-000000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+
+
+<!---   Currently working on **[Github Clone]**
+-   Learning **[Java EE , BlockChain]**
+-   Looking to collaborate on **Open Source Projects**
+-   Ask me about **[my poems]**
+-   Reach me: **[prakharkushwaha001@gmail.com]**
+-   Fun fact: **meow moewwww meowww , my windows turn blue** ☕--->
 
 ## 🎲 3D Contribution Graph
 
