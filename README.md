@@ -82,6 +82,9 @@ You can click the Preview link to take a look at your changes.
 ![Writer](https://img.shields.io/badge/Writer-2E8B57?style=for-the-badge&logo=markdown&logoColor=white)
 ![Full_Stack_Developer](https://img.shields.io/badge/Full_Stack_Developer-000000?style=for-the-badge&logo=github&logoColor=white)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-link.com](https://portfolio-roan-five-95.vercel.app/))
+
+
 </div>
 
 
@@ -147,7 +150,7 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-kushwaha-53542834a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prakhar_149/#)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Sudden-Jellyfish9686/?)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+
 
 </div>
 
