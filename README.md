@@ -82,7 +82,7 @@ You can click the Preview link to take a look at your changes.
 ![Writer](https://img.shields.io/badge/Writer-2E8B57?style=for-the-badge&logo=markdown&logoColor=white)
 ![Full_Stack_Developer](https://img.shields.io/badge/Full_Stack_Developer-000000?style=for-the-badge&logo=github&logoColor=white)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-link.com](https://portfolio-roan-five-95.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)]([https://portfolio-roan-five-95.vercel.app/])
 
 
 </div>
